@@ -1,0 +1,15 @@
+@charset "UTF-8";
+img{
+    width: 400px;
+    height: 400px;
+}
+
+#dice_roll{
+    width: 400px;
+    height: 100px;
+    border-radius: 30px;
+    border:solid #111 10px;
+    background-color: rgba(0,0,255,0);
+    font-family: 'Quicksand', sans-serif;
+    font-size: 2em;
+}
